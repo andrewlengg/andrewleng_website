@@ -8,7 +8,7 @@ params:
   banner:
     buttonText: Get Started
     subtitle: I shared my thoughts and works, hope that you enjoy them.
-    title: Hi there, welcome to my website. 
+    title: Hi there, welcome to Yuqiao's website. 
   blog: {}
   contact:
     address:
@@ -79,30 +79,18 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: pic01.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
-        url: blogs/aliquam
-      - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Tempus
-        url: blogs/tempus
-      - image: pic03.jpg
-        subtitle: Lorem Etiam Nullam
-        title: Magna
-        url: blogs/magna
-      - image: pic04.jpg
-        subtitle: Nisl Sed Aliquam
-        title: Ipsum
-        url: blogs/ipsum
-      - image: pic05.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Consequat
-        url: blogs/ipsum
-      - image: pic06.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Etiam
-        url: blogs/ipsum
+      - image: IMG_3729.JPG
+        #subtitle: Ipsum Dolor Sit Amet
+        title: CV
+        url: blogs/Yuqiao Leng CV
+      - image: IMG_0543.jpg
+        #subtitle: Feugiat Amet Tempus
+        title: R Project Example
+        url: blogs/Group-14-Project-final
+      - image: IMG_1974.jpg
+        #subtitle: Lorem Etiam Nullam
+        title: Python Project Example
+        url: blogs/LSTM
   two:
     buttonText: Get Started
     enable: yes
