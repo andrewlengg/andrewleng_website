@@ -82,7 +82,7 @@ params:
       - image: IMG_3729.JPG
         #subtitle: Ipsum Dolor Sit Amet
         title: CV
-        url: blogs/Yuqiao Leng CV
+        url: public/Yuqiao Leng CV.pdf
       - image: IMG_0543.jpg
         #subtitle: Feugiat Amet Tempus
         title: R Project Example
