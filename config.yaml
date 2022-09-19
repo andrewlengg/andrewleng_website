@@ -82,11 +82,11 @@ params:
       - image: IMG_3729.JPG
         #subtitle: Ipsum Dolor Sit Amet
         title: CV
-        url: public/Yuqiao Leng CV.pdf
+        url: public/Yuqiao Leng CV
       - image: IMG_0543.jpg
         #subtitle: Feugiat Amet Tempus
         title: R Project Example
-        url: blogs/Group-14-Project-final
+        url: blogs/Group14-Project-final
       - image: IMG_1974.jpg
         #subtitle: Lorem Etiam Nullam
         title: Python Project Example
